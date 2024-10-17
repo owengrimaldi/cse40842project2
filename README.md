@@ -1,7 +1,7 @@
 # LFG - Game Chat Rooms
-LFG for CSE 40842, written in Rust using tokio.
+LFG Chat Rooms Project for CSE 40842, written in Rust using tokio.
 
-![](/demo.png)
+![](/demo2.png)
 
 ## Dependencies (Cargo.toml)
 This project uses the following dependencies in Rust to function:

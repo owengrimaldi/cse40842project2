@@ -4,7 +4,7 @@ LFG Chat Rooms Project for CSE 40842, written in Rust using tokio.
 ![](/demo2.png)
 
 ## Dependencies (Cargo.toml)
-This project uses the following dependencies in Rust to function:
+This project uses the following dependencies:
 ```
   futures-util = { version = "0.3.30", features = ["sink"] }
   http = "1.1.0"
@@ -17,7 +17,7 @@ This project uses the following dependencies in Rust to function:
 ```
 
 ## Setup
-Clone or download the repository and access it's root. Run the following command:
+Clone or download the repository and access its root. Run the following command:
 ```
   cargo build --release
 ```

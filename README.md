@@ -34,5 +34,5 @@ Run the project with the following command:
 ```
 Use the 'Join' button to join an already-created room.
 Use the 'Create' button to create a new room.
-Use the message box and 'Enter'
+Type in the message box and 'Enter' to send messages.
 ```
